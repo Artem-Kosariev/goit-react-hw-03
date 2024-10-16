@@ -1,0 +1,12 @@
+.wrapper {
+}
+.input {
+  width: 328px;
+  border: 2px solid black;
+  border-radius: 4px;
+  height: 30px;
+}
+p {
+  margin-bottom: 5px;
+  text-align: left;
+}

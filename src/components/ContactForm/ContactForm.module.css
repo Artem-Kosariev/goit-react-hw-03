@@ -1,0 +1,21 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+label {
+  text-align: left;
+}
+.field {
+  border: 2px solid black;
+  border-radius: 5px;
+  height: 30px;
+}
+.btn {
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: rgb(192, 187, 187);
+  width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+}
